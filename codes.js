@@ -1,5 +1,5 @@
 module.exports = {
-  "BUTTON_HOME": "1046",
+  "BUTTON_HOME": "1046", //Media home
   "BUTTON_POWER": "1012",
   "BUTTON_POWER_NAV": "1012",
   "BUTTON_POWER_PLAYER": "1012",
@@ -18,9 +18,9 @@ module.exports = {
   "BUTTON_SCREEN": "1011",
   "BUTTON_LANG": "1015",
   "BUTTON_SUBTITLE": "1031",
-  "BUTTON_PRESETS": "1014",
-  "BUTTON_EPG": "1047",
-  "BUTTON_TEXT": "1255",
+  "BUTTON_PRESETS": "1014", /// TV color presets
+  "BUTTON_EPG": "1047", // Program booklet thing
+  "BUTTON_TEXT": "1255", // Tele text
   "BUTTON_FAV": "1040",
   "BUTTON_3D": "1040",
   "BUTTON_SLEEP": "1042",
@@ -57,6 +57,11 @@ module.exports = {
   "BUTTON_MMEDIA": "1057",
   "BUTTON_SOURCE": "1056",
   "BUTTON_SWAP": "1034",
-  "BUTTON_CHAN": "1045",
-  "BUTTON_QMENU": "1043"
+  "BUTTON_CHAN": "1045", // TV channel list
+  "BUTTON_AUDIO_CHAN": "1035",
+  "BUTTON_QMENU": "1043",
+  "BUTTON_YOUTUBE": "1038",
+  "BUTTON_CHANNEL_NETWORK_TYPE": "1039",
+  "BUTTON_UNKNOWN_1": "1059", // Something to do with record and playback
+  "BUTTON_UNKNOWN_2": "1255", // Displays info on screen
 }
